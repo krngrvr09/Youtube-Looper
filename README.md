@@ -10,3 +10,5 @@ setInterval(function(){
 			console.log("you're welcome.");
 		}
 }, 3000);``
+
+The ``javascript: `` is required, when pasting the above code in the URL.
