@@ -1,7 +1,7 @@
 {
     "name": "YoutubeLooperExtension",
     "version": "0.0.2",
-    "manifest_version": 3,
+    "manifest_version": 2,
     "browser_action": {
         "default_title": "Loop youtube videos",
         "default_icon":"loop.png"
